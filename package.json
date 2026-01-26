@@ -1,0 +1,24 @@
+{
+  "name": "objectsjs",
+  "version": "0.0.0",
+  "description": "Objects combine data and behaviour",
+  "keywords": [
+    "objects",
+    "ui"
+  ],
+  "homepage": "https://github.com/objectsjs/objectsjs#readme",
+  "bugs": {
+    "url": "https://github.com/objectsjs/objectsjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/objectsjs/objectsjs.git"
+  },
+  "license": "MPL-2.0",
+  "author": "Maedi",
+  "type": "module",
+  "main": "objects.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
